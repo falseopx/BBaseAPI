@@ -1,7 +1,9 @@
-# BaseAPI
+# BBaseAPI
 
-BaseAPI is a simple project to help people make APIs for their DLLs in a pinch, it takes almost no time, and is designed to be user-friendly in many ways.
+BBaseAPI is BaseAPI (developed by MarsQQ) bandaged to make the code less.. sucky.
 
+It's user friendly and doesn't require too much knowledge to use (but brain is required)
+I'll just leave the thing here:
 To use BaseAPI, you need these 4 requirements before you start:
 
 - API Name (Name of API, Example: BaseAPI)
